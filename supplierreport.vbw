@@ -1,0 +1,12 @@
+frmsupplier = -3, 25, 384, 462, C, -1, -2, 386, 462, C
+frmtransaction = 0, 0, 301, 462, C, -1, -4, 301, 462, C
+frmpmaster = 0, 0, 367, 338, C, 66, 66, 433, 404, C
+frmstock = 44, 44, 521, 325, C, 66, 66, 431, 412, C
+MDIForm1 = 0, 0, 386, 346, C, 88, 88, 474, 434, C
+frmstockshow = 66, 66, 560, 347, C, 46, 38, 448, 364, C
+supplierenvironment = 88, 88, 445, 434, C, 288, 279, 566, 482, C
+supplierReport = 0, 0, 0, 0, C, -296, 29, 504, 629, C
+pmasterenvironment = 0, 0, 0, 0, C, 312, 267, 572, 494, C
+pmasterreport = 0, 0, 0, 0, C, -277, 24, 523, 624, C
+DataEnvironment3 = 0, 0, 0, 0, C, 331, 220, 544, 500, C
+stockreport = 0, 0, 0, 0, C, -19, 2, 781, 602, C
